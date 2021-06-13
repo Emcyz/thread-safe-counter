@@ -12,6 +12,7 @@
 - declaring struct sembuf s
 - initializing and calculating elements of struct sembuf s
 ### this is because Semaphore handle shared memory
+### instead, Mutex handle only the key of the door
 
 # my information
 - name : 이승욱
