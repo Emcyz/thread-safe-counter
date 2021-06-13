@@ -11,3 +11,9 @@
 ### Semaphore has too many statement of
 - declare struct sembuf s
 - initialize elements of struct sembuf s
+### this is because Semaphore handle shared memory
+
+# my information
+- name : 이승욱
+- student id : 20173417
+- subject : Computer Architecture and Real-Time Operating System (1241501-01) 
