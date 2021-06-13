@@ -9,8 +9,8 @@
 
 # my analysis
 ### Semaphore has too many statement of
-- declare struct sembuf s
-- initialize elements of struct sembuf s
+- declaring struct sembuf s
+- initializing and calculating elements of struct sembuf s
 ### this is because Semaphore handle shared memory
 
 # my information
